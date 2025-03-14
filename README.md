@@ -1,4 +1,5 @@
-## Hi there 👋
+![tumblr_e8b01e810e3ca964484bbd9c026f2d02_15f30333_500](https://github.com/user-attachments/assets/0e64605f-fd75-40c9-ab9a-2b1777927e43)
+
 
 <!--
 **AkaneSawatari/AkaneSawatari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
